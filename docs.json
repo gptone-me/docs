@@ -23,9 +23,10 @@
           {
             "group": "AI tools",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "ai-tools/AI Scan",
+              "ai-tools/Grammer Scan",
+              "ai-tools/Humanizer",
+              "ai-tools/Word Count"
             ]
           },
           {
