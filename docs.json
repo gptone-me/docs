@@ -89,8 +89,8 @@
     }
   },
   "logo": {
-    "light": "/logo/gptone-light.png",
-    "dark": "/logo/gptone-dark.png"
+    "light": "/logo/gptone-dark.png",
+    "dark": "/logo/gptone-light.png"
   },
   "navbar": {
     "links": [
