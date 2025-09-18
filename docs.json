@@ -23,11 +23,11 @@
           {
             "group": "AI tools",
             "pages": [
-              "ai-tools/AI Scan",
-              "ai-tools/Grammer Scan",
-              "ai-tools/Humanizer",
-              "ai-tools/Word Count",
-              "ai-tools/ChatBot"
+              "ai-tools/ai-scan",
+              "ai-tools/grammer-scan",
+              "ai-tools/humanizer",
+              "ai-tools/word-count",
+              "ai-tools/chatBot"
             ]
           },
           {
