@@ -57,13 +57,14 @@
   },
   "logo": {
     "light": "/logo/gptone-dark.png",
-    "dark": "/logo/gptone-light.png"
+    "dark": "/logo/gptone-light.png",
+    "href": "https://gptone.me"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:support@gptone.me"
+        "href": "https://gptone.me/contact"
       }
     ],
     "primary": {
